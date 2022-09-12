@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cari Luas yuk!</string>
+    <string name="calculate">HITUNG</string>
+    <string name="result">HASIL</string>
+    <string name="height">Tinggi</string>
+    <string name="width">Lebar</string>
+    <string name="length">Panjang</string>
+</resources>
